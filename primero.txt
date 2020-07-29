@@ -5,3 +5,5 @@ cuarto
 quinto
 sexto
 septimo
+octavo
+noveno
